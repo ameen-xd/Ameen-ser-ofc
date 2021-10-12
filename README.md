@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://telegra.ph/file/9b873234a9cc47a5916ae.jpg" alt="NinoBot" width="500" />
 
-# NinoBot 
+# AMEEN-SER-BOT
 
-> NinoBot is a multipurpose WhatsApp bot using Adiwajshing-Bail## `Deploy`
+> AMEEN-SER-BOT is a multipurpose WhatsApp bot using Adiwajshing-Bail## `Deploy`
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dilmano/Ameen-Ser-OFC/)
 >
