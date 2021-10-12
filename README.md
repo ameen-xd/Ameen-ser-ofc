@@ -5,7 +5,7 @@
 
 > NinoBot is a multipurpose WhatsApp bot using Adiwajshing-Bail## `Deploy`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dilmano/Ameen-Ser-OFC/)eys library!
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dilmano/Ameen-Ser-OFC/)
 >
 >
 
@@ -19,7 +19,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nino-chan02"><img title="Author" src="https://img.shields.io/badge/Author-Marz-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Nino-chan02"><img title="Author" src="https://img.shields.io/badge/Authors-𝐀𝐌𝐄𝐄𝐍 𝐒𝐄𝐑 | 𝐁𝐄𝐌𝐈𝐍 𝐒𝐄𝐑-purple.svg?style=for-the-badge&logo=github" /></a>
+
+<h3 align="center">𝕭𝖑𝖔𝖔𝖕𝖊𝖗 𝕾𝖊𝖗</h3>
+<p align="center">
+  <a href="https://github.com/blooper-ser"><img src="https://www.linkpicture.com/q/IMG_20211002_172633.jpg" height="128" width="128" /></a>
 
 <p align="center">
   <a href="https://github.com/Nino-chan02/NinoWangy#requirements">Requirements</a> •
