@@ -368,7 +368,7 @@ module.exports = bosco = async (bosco, mek) => {
 			               "groupJid": "6288213840883-1616169743@g.us",
 			               "inviteCode": "mememteeeekkeke",
 			               "groupName": ".bot", 
-                           "caption": `𝑪𝑴𝑫 𝑬𝑿𝑪𝑳𝑼𝑫𝑬𝑫 : \n 𝑵𝑬𝑾 𝑭𝑬𝑼𝑻𝑬𝑹𝑺 𝑨𝑫𝑫𝑬𝑫 \n  `, 
+                           "caption": `𝑪𝑴𝑫 𝑬𝑿𝑪𝑳𝑼𝑫𝑬𝑫 : \n 𝑵𝑬𝑾 𝑭𝑬𝑼𝑻𝑬𝑹𝑺 𝑨𝑫𝑫𝑬𝑫 \n 𝑴𝑨𝑫𝑬 𝑩𝒀 𝑫𝑬𝑵𝑰𝑺`, 
                            'jpegThumbnail': fs.readFileSync(`ds.jpg`)
 		                }
 	               }
@@ -2728,7 +2728,7 @@ case 'emoji':
 					break
       case 'addvn':
       case 'addbgm':
-					if (!isOwner) return 
+					if (!isowner) return 
 					nm = body.slice(7)
 					if (!nm) return reply('*What is The bgm name?*')
 					boij = JSON.parse(JSON.stringify(mek).replace('quotedM', 'm')).message.extendedTextMessage.contextInfo
