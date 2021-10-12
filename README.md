@@ -25,6 +25,11 @@
 <p align="center">
   <a href="https://github.com/blooper-ser"><img src="https://www.linkpicture.com/q/IMG_20211002_172633.jpg" height="128" width="128" /></a>
 
+<h3 align="center">𝕬𝖒𝖊𝖊𝖓 𝕾𝖊𝖗</h3>
+<p align="center">
+<a href="https://github.com/Dilmano"><img src="https://i.imgur.com/yCSQaRR.jpg" height="128" width="128" /></a>
+
+
 <p align="center">
   <a href="https://github.com/Nino-chan02/NinoWangy#requirements">Requirements</a> •
   <a href="https://github.com/Nino-chan02/NinoWangy#instalasi">Installation</a> •
